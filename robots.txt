@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://batfink.github.io/sitemap.xml 
