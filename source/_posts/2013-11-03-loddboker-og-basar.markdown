@@ -9,7 +9,12 @@ categories:
 - ungene
 ---
 
-Da har dugnadssesongen satt i gang for fullt i musikkorpset og fotballklubben, og vi har ikke mindre enn ~~4~~ 3 loddbøker (med tilsammen ~~240~~ 180 lodd) og ~~8~~ 6 julekalender-skrapelodd å selge, og har også gleden av å invitere til musikkorpset sin årlige basar 24. november på Kleppestø Videregående Skole for de som har lyst til å være med på det. Enjoy-guidene er dessverre utsolgt for denne gang, men det går sikkert an å få tak i flere hvis det er noen som vil ha. Vi er realistisk her, selger det vi får til og leverer resten tilbake – men setter stor pris på om noen av dere vil være med og støtte disse aktivitetene.
+Da har dugnadssesongen satt i gang for fullt i musikkorpset og fotballklubben, og vi har ikke mindre enn 4 loddbøker (med tilsammen 240 lodd) og 8 julekalender-skrapelodd å selge, og har også gleden av å invitere til musikkorpset sin årlige basar 24. november på Kleppestø Videregående Skole for de som har lyst til å være med på det. Enjoy-guidene er dessverre utsolgt for denne gang, men det går sikkert an å få tak i flere hvis det er noen som vil ha. Vi er realistisk her, selger det vi får til og leverer resten tilbake – men setter stor pris på om noen av dere vil være med og støtte disse aktivitetene.
+
+### Oppdatering 04.11 kl. 12.48
+
+1 loddbok + 20 lodd og 2 skrapelodd er solgt. Takk til Endre og Helga :-)
+
 
 Musikken sine lodd
 ------------------
