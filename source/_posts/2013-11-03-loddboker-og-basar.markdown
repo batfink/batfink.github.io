@@ -2,7 +2,7 @@
 layout: post
 title: "Loddbøker og basar"
 date: 2013-11-03 21:08
-comments: false
+comments: true
 categories: 
 - fotballen
 - musikken
