@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ungene | My Octopress Blog]]></title>
   <link href="http://batfink.github.io/blog/categories/ungene/atom.xml" rel="self"/>
   <link href="http://batfink.github.io/"/>
-  <updated>2013-11-05T09:04:10+01:00</updated>
+  <updated>2013-11-14T08:31:00+01:00</updated>
   <id>http://batfink.github.io/</id>
   <author>
     <name><![CDATA[Victor Nystad]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dugnad]]></title>
+    <link href="http://batfink.github.io/blog/2013/11/14/dugnad/"/>
+    <updated>2013-11-14T08:28:00+01:00</updated>
+    <id>http://batfink.github.io/blog/2013/11/14/dugnad</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Loddbøker og basar]]></title>
